@@ -5,6 +5,7 @@ import "react-input-range/lib/css/index.css"
 import Output from "./components/Output"
 import Sidebar from './components/Sidebar';
 import Header from './components/Header'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 class App extends React.Component {
