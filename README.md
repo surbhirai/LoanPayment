@@ -4,7 +4,9 @@
 
 ### Installation-
 $ https://github.com/surbhirai/LoanPayment.git
+
 $ cd loanpayment
+
 $ npm install
 
 Run using $npm start
