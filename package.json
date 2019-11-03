@@ -2,13 +2,14 @@
   "name": "loanpayment",
   "version": "0.1.0",
   "private": true,
-  "engines":{
+  "engines": {
     "npm": "6.9.0",
     "node": "10.16.0"
   },
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "react": "^16.10.2",
-    "react-bootstrap": "^1.0.0-beta.14",
+    "react-bootstrap": "^0.32.1",
     "react-burger-menu": "^2.6.11",
     "react-dom": "^16.10.2",
     "react-input-range": "^1.3.0",

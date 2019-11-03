@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import InputRange from "react-input-range";
 import "react-input-range/lib/css/index.css"
-import 'bootstrap/dist/css/bootstrap.min.css'
 import Output from "./components/Output"
 import Sidebar from './components/Sidebar';
 import Header from './components/Header'
